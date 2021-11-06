@@ -11,9 +11,9 @@ public class Main {
         solarSystem.moon=1;
 
         featuresSun featuresSun=new featuresSun();
-        featuresSun.color="yellow";
-        featuresSun.heat="6000";
-        featuresSun.temp="5cel";
+        featuresSun.color="yellow and orange";
+        featuresSun.heat="6000555";
+        featuresSun.temp="6cel";
         featuresSun.radius=12;
 
 
