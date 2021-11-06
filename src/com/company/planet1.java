@@ -2,8 +2,6 @@ package com.company;
 
 public class planet1 {
 
-    int sizel;
+    int size;
     String color;
-    String status;
-
 }

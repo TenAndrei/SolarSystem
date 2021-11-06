@@ -17,16 +17,9 @@ public class Main {
         featuresSun.radius=12;
 
 
-//planet2 features
-        Planet2 planet2=new Planet2();
-        planet2.color="blue";
-        planet2.name="Earth";
-
-        
-
       planet1 planet1=new planet1();
       planet1.color="green";
-      planet1.sizel=100;
+      planet1.size=100;
 
   }
 }

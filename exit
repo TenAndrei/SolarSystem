@@ -1,0 +1,63 @@
+[33mcommit f0d546b164813b8f54a7807cae72605d7b31781c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 954301a 997e630
+Author: TenAndrei <88751213+TenAndrei@users.noreply.github.com>
+Date:   Sat Nov 6 15:11:11 2021 -0400
+
+    Merge pull request #3 from TenAndrei/planet2
+    
+    planet2 has been added
+
+[33mcommit 997e6305ea24a42e65495e43a004e562f3c969ee[m[33m ([m[1;31morigin/planet2[m[33m)[m
+Merge: d8497f3 954301a
+Author: TenAndrei <88751213+TenAndrei@users.noreply.github.com>
+Date:   Sat Nov 6 15:11:04 2021 -0400
+
+    Merge branch 'main' into planet2
+
+[33mcommit 954301a398eb32ccbb8e9df31c271921978cf5f4[m
+Merge: 9f96ff2 ce5b728
+Author: TenAndrei <88751213+TenAndrei@users.noreply.github.com>
+Date:   Sat Nov 6 14:26:01 2021 -0400
+
+    Merge pull request #2 from TenAndrei/Planet1
+    
+    planet1 is ready
+
+[33mcommit d8497f3bda1f7f9a65e821a155bdeabd51882d7f[m
+Author: TenAndrei <fcbfanat@gmail.com>
+Date:   Sat Nov 6 13:55:37 2021 -0400
+
+    planet2 has been added
+
+[33mcommit ce5b72853b46b3dba52c8e380169fe3c50cbce40[m[33m ([m[1;31morigin/Planet1[m[33m)[m
+Author: TenAndrei <fcbfanat@gmail.com>
+Date:   Sat Nov 6 13:40:47 2021 -0400
+
+    planet1 is ready
+
+[33mcommit 9f96ff2eb5eb712cd57d6a33d020de332b3811ca[m
+Merge: 5189976 b3fcd78
+Author: TenAndrei <88751213+TenAndrei@users.noreply.github.com>
+Date:   Sat Nov 6 12:53:47 2021 -0400
+
+    Merge pull request #1 from TenAndrei/featureSun
+    
+    Feature sun
+
+[33mcommit b3fcd7836158639fca5dd0344ddca6fb6c9180b5[m[33m ([m[1;31morigin/featureSun[m[33m)[m
+Author: TenAndrei <fcbfanat@gmail.com>
+Date:   Sat Nov 6 12:13:15 2021 -0400
+
+    the bug is fix and ready to be integrated
+
+[33mcommit fee71989aead6b696a67f75e88236e6cfb828e79[m
+Author: TenAndrei <fcbfanat@gmail.com>
+Date:   Sat Nov 6 11:54:15 2021 -0400
+
+    feature sun added with a bug that needs to be fix
+
+[33mcommit 5189976c3b84a6b2a021e763e3994f8c5ae539df[m
+Author: TenAndrei <fcbfanat@gmail.com>
+Date:   Sat Nov 6 10:56:34 2021 -0400
+
+    SolarSystemBasicStructure
