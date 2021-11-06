@@ -10,5 +10,12 @@ public class Main {
         solarSystem.Sun=1;
         solarSystem.moon=1;
 
-    }
+        featuresSun featuresSun=new featuresSun();
+        featuresSun.color="yellow and orange";
+        featuresSun.heat="6000555";
+        featuresSun.temp="6cel";
+        featuresSun.radius=12;
+
+
+  }
 }
