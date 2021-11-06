@@ -16,6 +16,11 @@ public class Main {
         featuresSun.temp="6cel";
         featuresSun.radius=12;
 
+//planet2 features
+        Planet2 planet2=new Planet2();
+        planet2.color="blue";
+        planet2.name="Earth";
 
+        
   }
 }
